@@ -1,0 +1,8 @@
+{
+    "name": "myproj",
+    "description": "{{ cookiecutter.name }} description",
+    "author": "",
+    "email": "",
+    "url": "",
+    "license": ""
+}

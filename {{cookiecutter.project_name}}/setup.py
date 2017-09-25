@@ -11,5 +11,7 @@ setup(
     author_email="{{ cookiecutter.email }}",
     url="{{ cookiecutter.url }}",
     license="{{ cookiecutter.license }}",
+    include_package_data=True,
+    zip_safe={{ cookiecutter.zip_safe }},
     classifiers=[]
 )

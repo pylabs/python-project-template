@@ -4,5 +4,6 @@
     "author": "",
     "email": "",
     "url": "",
-    "license": ["MIT", "BSD-3", "GNU GPL v3.0"]
+    "license": ["MIT", "BSD-3", "GNU GPL v3.0"],
+    "zip safe": ["True", "False"]
 }
